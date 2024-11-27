@@ -1,2 +1,2 @@
 # API_
-A repository for templets of APIs
+A repository for templet of APIs
